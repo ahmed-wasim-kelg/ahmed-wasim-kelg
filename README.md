@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed wasim</h1>
-<h3 align="center">Data Scientist | AI & ML Model Designer | Data Visualization Specialis</h3>
+<h3 align="center">Data Scientist | AI & ML Model Designer | Data Visualization Specialist</h3>
 
 - 📫 How to reach me **ahmedw690@gmail.com**
 
